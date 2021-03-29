@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/alan-soto-valle/"><img alt="LinkedIn" height="30" src="images/linkedin.png"/></a>
 </div>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/alan-soto-valle/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn @Alan Soto Valle" height="30" width="40" /></a> | <a href="https://twitter.com/Alan_Soto31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter @Alan_Soto31" height="30" width="40" /></a>
+</div>
+
 <!-- short mesage about me -->
 
 <!-- icons of Lenguages I know about -->
