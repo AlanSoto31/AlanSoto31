@@ -17,8 +17,10 @@
 <!-- icons of Lenguages I know about -->
 ## Lenguages an Tools...
 
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<div align="center">
+  <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+  <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+</div>
 
 <!-- Stats about my GitHub activity -->
 
