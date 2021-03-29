@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Alan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/top-langs/?username=AlanSoto31&show_icons=true&theme=radical" alt="Alan's github stats" />
 </a>
 
 
