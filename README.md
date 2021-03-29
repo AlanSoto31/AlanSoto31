@@ -13,7 +13,11 @@
 
 <!-- short mesage about me -->
 
+
 <!-- icons of Lenguages I know about -->
+## Lenguages an Tools...
+
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 <!-- Stats about my GitHub activity -->
