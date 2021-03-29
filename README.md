@@ -21,7 +21,10 @@
   <img height="54px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
   <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
   <img height="54px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode">
-  
+  <img height="54px" src="https://cdn.svgporn.com/logos/css-3_official.svg" alt="CSS">
+  <img height="54px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
+  <img height="54px" src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby">
+  <img height="54px" src="https://cdn.svgporn.com/logos/rails.svg" alt="Rails">
 </div>
 
 <!-- Stats about my GitHub activity -->
