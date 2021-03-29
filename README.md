@@ -18,8 +18,10 @@
 ## Lenguages an Tools...
 
 <div align="center">
-  <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-  <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+  <img height="54px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML">
+  <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
+  <img height="54px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode">
+  
 </div>
 
 <!-- Stats about my GitHub activity -->
