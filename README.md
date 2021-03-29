@@ -15,7 +15,7 @@
 
 
 <!-- icons of Lenguages I know about -->
-## Lenguages an Tools...
+## Lenguages and Tools...
 
 <div align="center">
   <img height="54px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
@@ -28,19 +28,17 @@
   <img height="54px" src="" alt="">
   <img height="54px" src="" alt="">
   <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
-  <img height="54px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode">
 </div>
 
 <!-- Stats about my GitHub activity -->
-
-
+## Some stats...
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=cobalt" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=cobalt" alt="Alan's github stats" />
 </a>
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&layout=compact" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&layout=compact" alt="Alan's github stats" />
 </a>
 
 
