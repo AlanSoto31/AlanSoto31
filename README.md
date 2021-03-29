@@ -23,8 +23,10 @@
   <img height="54px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
   <img height="54px" src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby">
   <img height="54px" src="https://cdn.svgporn.com/logos/rails.svg" alt="Rails">
-  
-  
+  <img height="54px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
+  <img height="54px" src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux">
+  <img height="54px" src="" alt="">
+  <img height="54px" src="" alt="">
   <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
   <img height="54px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode">
 </div>
@@ -35,6 +37,8 @@
 
 <!--
 **AlanSoto31/AlanSoto31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img height="54px" src="" alt="">
 
 Here are some ideas to get you started:
 
