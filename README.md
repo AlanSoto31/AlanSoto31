@@ -34,15 +34,11 @@
 ## Some stats...
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=cobalt" alt="Alan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=merko" alt="Alan's github stats" />
 </a>
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&layout=compact" alt="Alan's github stats" />
-</a>
-
-<a href="https://github.com/AlanSoto31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&theme=radical&layout=compact" alt="Alan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&theme=merko&layout=compact" alt="Alan's github stats" />
 </a>
 
 
