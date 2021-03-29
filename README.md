@@ -33,9 +33,16 @@
 
 <!-- Stats about my GitHub activity -->
 
+
+
+<a href="https://github.com/AlanSoto31/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=cobalt" alt="Anurag's github stats" />
+</a>
+
 <a href="https://github.com/AlanSoto31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&layout=compact" alt="Anurag's github stats" />
 </a>
+
 
 
 <!--
