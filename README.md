@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+
 <!--
 **AlanSoto31/AlanSoto31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
