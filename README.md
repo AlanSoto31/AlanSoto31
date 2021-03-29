@@ -1,10 +1,18 @@
-## Hi there 👋 I'm Alan Soto
+## Hi there, 👋 I'm Alan Soto
 
-###Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<!-- linkedIn | | Profile | Twiter -->
+
+<!-- short mesage about me -->
+
+<!-- icons of Lenguages I know about -->
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 
+
+<!--  -->
 <!--
 **AlanSoto31/AlanSoto31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
