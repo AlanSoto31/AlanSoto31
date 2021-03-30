@@ -2,11 +2,12 @@
   Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </h1>
 
-<!-- Image -->
+<!-- short mesage about me -->
+<h2> About me... </h2>
 
-<div align="center">
-    <img height="300px" width="500px"  src="https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
-</div
+<h4 align="center">
+I am passionate about build code and nature. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 🔭 I'm looking for new challenges in remote jobs. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
+</h4>
 
 <!-- linkedIn | | Profile | Twiter -->
 
@@ -15,13 +16,6 @@
   | 
   <a href="https://twitter.com/Alan_Soto31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter @Alan_Soto31" height="30" width="40" /></a>
 </div>
-
-<!-- short mesage about me -->
-<h2> About me... </h2>
-
-<h4 align="center">
-I am passionate about build code and nature. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 🔭 I'm looking for new challenges in remote jobs. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
-</h4>
 
 <!-- icons of Lenguages I know about -->
 <h2> Lenguages and Tools... </h2>
