@@ -3,11 +3,12 @@
 </h1>
 
 <!-- short mesage about me -->
-<h4 align="center">
-- :fire: I am passionate about code and nature.
-- 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program.
-- 🔭 I'm looking for new challenges in remote jobs.
-- 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio.</a>
+
+<h4>
+- :fire: I'm passionate about code and nature.<br>
+- 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program.<br>
+- 🔭 I'm looking for new challenges in remote jobs.<br>
+- 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio.</a><br>
 </h4>
 
 <!-- linkedIn | | Profile | Twiter -->
