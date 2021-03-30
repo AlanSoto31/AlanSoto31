@@ -31,14 +31,15 @@
 <!-- Stats about my GitHub activity -->
 ## Some stats...
 
-<a href="https://github.com/AlanSoto31/github-readme-stats">
+<div align="center">
+  <a href="https://github.com/AlanSoto31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanSoto31&show_icons=true&theme=gruvbox&hide=issues" alt="Alan's github stats" />
 </a>
 
 <a href="https://github.com/AlanSoto31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSoto31&theme=gruvbox&layout=compact" alt="Alan's github stats" />
 </a>
-
+</div>
 
 
 <!--
