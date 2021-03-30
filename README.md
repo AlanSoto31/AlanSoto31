@@ -4,12 +4,11 @@
 
 <!-- short mesage about me -->
 
-<h4 align="center">
-I am passionate about build code and nature.
-🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program.
-🔭 I'm looking for new challenges in remote jobs.
-📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
-</h4>
+<h4 align="center"><h4 align="center">I am passionate about build code and nature.</h4>
+<h4 align="center">🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program.</h4>
+<h4 align="center">🔭 I'm looking for new challenges in remote jobs.</h4>
+<h4 align="center">📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio.</a></h4>
+
 
 <!-- linkedIn | | Profile | Twiter -->
 
