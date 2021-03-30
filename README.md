@@ -4,7 +4,7 @@
 <!-- Image and information -->
 
 <div align="center">
-    <img height="100px" width="200px"  src="	https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
+    <img height="100px" width="200px"  src="https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
 </div
 
 <!-- linkedIn | | Profile | Twiter -->
