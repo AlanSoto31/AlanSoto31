@@ -1,6 +1,12 @@
 ## Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
+<!-- Image and information -->
+
+<div align="center">
+    <img height="100px" width="200px"  src="	https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
+</div
+
 <!-- linkedIn | | Profile | Twiter -->
 
 <div align="center">
@@ -11,6 +17,9 @@
 
 <!-- short mesage about me -->
 
+<h2 align="center">
+  I am passionate about build code to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs.<br>
+</h2>
 
 <!-- icons of Lenguages I know about -->
 ## Lenguages and Tools...
@@ -23,8 +32,6 @@
   <img height="54px" src="https://cdn.svgporn.com/logos/rails.svg" alt="Rails">
   <img height="54px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
   <img height="54px" src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux">
-  <img height="54px" src="" alt="">
-  <img height="54px" src="" alt="">
   <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
 </div>
 
