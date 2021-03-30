@@ -1,3 +1,7 @@
+<h2 align="center">
+  Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+</h2>
+
 ## Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
@@ -21,6 +25,8 @@
   I am passionate about build code to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs.<br>
 </h2>
 
+📫 How to reach me: ...
+🌱 I’m currently learning ...
 <!-- icons of Lenguages I know about -->
 ## Lenguages and Tools...
 
@@ -48,20 +54,3 @@
 </a>
 </div>
 
-
-<!--
-**AlanSoto31/AlanSoto31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img height="54px" src="" alt="">
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
