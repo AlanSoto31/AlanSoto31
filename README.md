@@ -5,7 +5,7 @@
 <!-- Image -->
 
 <div align="center">
-    <img height="100px" width="200px"  src="https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
+    <img height="300px" width="500px"  src="https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
 </div
 
 <!-- linkedIn | | Profile | Twiter -->
@@ -19,9 +19,9 @@
 <!-- short mesage about me -->
 <h2> About me... </h2>
 
-<h5>
+<h4 align="center">
 I am passionate about build code and nature. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 🔭 I'm looking for new challenges in remote jobs. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
-</h5>
+</h4>
 
 <!-- icons of Lenguages I know about -->
 <h2> Lenguages and Tools... </h2>
