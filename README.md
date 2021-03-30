@@ -17,10 +17,11 @@
 </div>
 
 <!-- short mesage about me -->
+<h2> About me... </h2>
 
-<h3 align="center">
-  I am passionate about build code to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
-</h3>
+<h5>
+I am passionate about build code and nature. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 🔭 I'm looking for new challenges in remote jobs. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
+</h5>
 
 <!-- icons of Lenguages I know about -->
 <h2> Lenguages and Tools... </h2>
