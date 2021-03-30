@@ -1,11 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-</h2>
+</h1>
 
-## Hi there 👋, I'm Alan Soto, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-</em></p>
-
-<!-- Image and information -->
+<!-- Image -->
 
 <div align="center">
     <img height="100px" width="200px"  src="https://i.pinimg.com/236x/ac/67/fb/ac67fb0a8297240e91b9cd377c479472.jpg" alt="main-img">
@@ -21,14 +18,12 @@
 
 <!-- short mesage about me -->
 
-<h2 align="center">
-  I am passionate about build code to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs.<br>
-</h2>
+<h3 align="center">
+  I am passionate about build code to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs. <br> 🌱 I’m currently learning JavaScript on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program. <br> 📫 Get in touch with me via email or visit <a href="https://alansoto31.github.io/Portfolio/" target="_blank">my Portfolio</a>
+</h3>
 
-📫 How to reach me: ...
-🌱 I’m currently learning ...
 <!-- icons of Lenguages I know about -->
-## Lenguages and Tools...
+<h2> Lenguages and Tools... </h2>
 
 <div align="center">
   <img height="54px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
@@ -42,7 +37,7 @@
 </div>
 
 <!-- Stats about my GitHub activity -->
-## Some stats...
+<h2> Some Stats... </h2>
 
 <div align="center">
   <a href="https://github.com/AlanSoto31/github-readme-stats">
